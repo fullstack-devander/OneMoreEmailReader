@@ -7,6 +7,6 @@ CONNECTION = {
 
 CONTENT_TYPES = ['text/plain', 'text/html']
 
-ATTACHMENT_DIR = '/home/demyanchuk/prototype/mailReader/attachments/'
+ATTACHMENT_DIR = ''
 
 ALLOWED_EXTENSIONS = ['csv']
